@@ -5,10 +5,6 @@ A stunning, interactive finance dashboard built as a Frontend Developer Internsh
 ## Live Demo
 > https://finance-dashboard-xi-ochre.vercel.app/
 
-## Screenshots
-> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/41907c0c-e706-46f7-be0f-867c58270340" />
-
-
 ---
 
 ## Features
@@ -63,7 +59,7 @@ A stunning, interactive finance dashboard built as a Frontend Developer Internsh
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/YOURUSERNAME/finance-dashboard.git
+git clone https://github.com/JosephMorris7/finance-dashboard.git
 
 2. Navigate to the project folder:
 cd finance-dashboard
