@@ -3,10 +3,11 @@
 A stunning, interactive finance dashboard built as a Frontend Developer Internship assignment for Zorvyn. Built with React.js, Tailwind CSS, and Recharts.
 
 ## Live Demo
-> Add your Vercel link here after deployment
+> https://finance-dashboard-xi-ochre.vercel.app/
 
 ## Screenshots
-> Add screenshots here after deployment
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/41907c0c-e706-46f7-be0f-867c58270340" />
+
 
 ---
 
