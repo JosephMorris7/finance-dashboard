@@ -155,4 +155,4 @@ The project uses 20 mock transactions across 3 months (January - March 2024) cov
 
 ## Author
 
-Built with ❤️ for the Zorvyn Frontend Developer Internship Assignment
+Built with ❤️ by Joseph Morris 
