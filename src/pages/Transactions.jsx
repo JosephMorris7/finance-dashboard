@@ -37,7 +37,8 @@ export default function Transactions() {
   return (
     <div style={{ padding: "32px 24px" }}>
       {/* Header */}
-      <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: "32px" }}>
+      <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between",
+marginBottom: "32px", flexWrap: "wrap", gap: "16px" }}>
         <div>
           <h1 style={{ fontSize: "32px", fontWeight: "700", color: "white", letterSpacing: "-0.5px", marginBottom: "8px" }}>
             Transactions

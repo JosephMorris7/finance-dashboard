@@ -103,8 +103,7 @@ const getGreeting = () => {
       {/* Charts */}
       <div style={{
         display: "grid",
-        gridTemplateColumns: "repeat(auto-fit, minmax(400px, 1fr))",
-        gap: "20px"
+gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))",        gap: "20px"
       }}>
         <SpendingLineChart />
         <CategoryPieChart />

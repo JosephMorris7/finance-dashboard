@@ -15,7 +15,7 @@ export default function Insights() {
   const netSavings = totalIncome - totalExpense;
 
   return (
-    <div style={{ padding: "32px 24px" }}>
+    <div style={{ padding: "24px 16px" }}>
       {/* Header */}
       <div style={{ marginBottom: "32px" }}>
         <h1 style={{

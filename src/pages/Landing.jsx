@@ -72,7 +72,7 @@ export default function Landing() {
       {/* Navbar */}
       <div style={{
         display: "flex", alignItems: "center", justifyContent: "space-between",
-        padding: "24px 60px", position: "relative", zIndex: 1,
+        padding: "24px 20px", position: "relative", zIndex: 1,
         animation: "slideUp 0.5s ease forwards"
       }}>
         <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
@@ -115,13 +115,12 @@ export default function Landing() {
       {/* Main layout */}
       <div style={{
         display: "flex", alignItems: "center", justifyContent: "space-between",
-        gap: "40px", position: "relative", zIndex: 1,
-        maxWidth: "1200px", margin: "0 auto", width: "100%",
-        padding: "0px 60px 60px", flex: 1
-      }}>
+flexWrap: "wrap", gap: "40px", position: "relative", zIndex: 1,
+maxWidth: "1200px", margin: "0 auto", width: "100%",
+padding: "0px 24px 40px", flex: 1    }}>
 
         {/* LEFT */}
-        <div style={{ flex: 1, textAlign: "left" }}>
+        <div style={ { flex: 1, textAlign: "left", minWidth: "280px"  }}>
 
           {/* Badge */}
           <div style={{
@@ -274,8 +273,7 @@ export default function Landing() {
 
         {/* RIGHT - 3D Coins */}
         <div style={{
-          flex: 1, display: "flex", alignItems: "center", justifyContent: "center",
-          animation: "slideUp 0.8s ease 0.3s forwards", opacity: 0,
+flex: 1, display: "flex", alignItems: "center", justifyContent: "center", minWidth: "280px",          animation: "slideUp 0.8s ease 0.3s forwards", opacity: 0,
           position: "relative"
         }}>
           <div style={{
